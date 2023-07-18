@@ -1,0 +1,4 @@
+222ER3387,Shrikrishna,1234,1998-02-28,Male,krishnashri082@gmail.com,Masters,7738114301
+25,Rani,123456,2003-03-11,Female,rani56@gmail.com,Graduation,9812763445
+34ER4456,Mohini,123456,2011-03-22,Female,Moni23@gmail.com,Intermediate,9573256736
+34656,xyz,687,2023-03-08,Male,dfdsjfh,Graduation,879684897089

@@ -1,0 +1,3 @@
+245,2023-03-28,5:30,Fast,Madhya Pradesh,Indore,Ram,Shyam,rourkela,Indore,7835261793,4532987436,Gift,4000
+123,2023-03-26,2:15,Standard,Bangole,Kolkata,Mohan,Sohan,rourkela,kolkata,9327465927,56957462,shoes,2999
+45,2023-03-29,3:20,Standard,Odisha,Rourkela,ram,shyam,dfdf,fgh,85674,875684457,beg,300
